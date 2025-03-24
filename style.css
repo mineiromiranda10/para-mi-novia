@@ -1,0 +1,8 @@
+body { background-image: url(Fondo_1.jpg);
+     background-size: cover; 
+
+}
+h2 { color: rgb(17, 121, 240); font-size-adjust: calc(1.5); } 
+
+p { font-size-adjust: calc(1,0);}
+img { width: 400px; height: 250px;}
